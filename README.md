@@ -6,8 +6,8 @@
 <br/>
 
 <p>
-  <a href="https://github.com/devjo3075">
-    <img src="https://img.shields.io/badge/GitHub-devjo3075-181717?style=flat-square&logo=github&logoColor=white"/>
+  <a href="">
+    <img src=""/>
   </a>
 </p>
 
