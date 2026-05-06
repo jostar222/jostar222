@@ -3,13 +3,6 @@
 # 조성현
 
 ### Backend Engineer
-<br/>
-
-<p>
-  <a href="">
-    <img src=""/>
-  </a>
-</p>
 
 </div>
 
